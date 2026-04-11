@@ -8,3 +8,6 @@ Me inscribi a la carrera porque siempre me intrigó como se ejecutaba los videos
 
 Otra informacion mia personal tengo 6 gatos y una perra, soy inteligente pero vago(dos cosas que no van de mano), soy de prestar mucha atención en clases pero no soy de preguntar cosas, se algo de git y github pero no mucho solo eh visto videos antes de empezar el cuatrimestre por recomendación de un primo.
 
+![foto mia](me.jpg)
+
+
